@@ -1,0 +1,14 @@
+.container {
+    border: 2px solid black;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.con-button {
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}

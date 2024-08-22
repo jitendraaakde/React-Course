@@ -1,0 +1,13 @@
+.container {
+  width: 200px;
+  color: red;
+  border: 1px solid black;
+  margin: 10px;
+  min-width: 200px;
+}
+.container ul li {
+  color: rebeccapurple;
+}
+.container button {
+  float: right;
+}
